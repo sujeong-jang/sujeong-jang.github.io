@@ -1,6 +1,14 @@
-language: ruby
+language:      node_js
+git:
+  depth:       3
+node_js:
+  - "node"
+install:       npm install
 script:
-  - gem install jekyll bundler
-  - bundle install
-  - bundle exec jekyll build
-cache: bundler
+  - npm test
+  - gulp
+cache:
+  directories:
+    - node_modules
+notifications:
+  email:       false
