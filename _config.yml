@@ -4,27 +4,13 @@ repository: sujeong-jang.github.io
 
 # Personal info
 name: Jang sujeong
-title: Your job title
+title: 소통하는 개발자
 email: ssujung_@naver.com
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+phone: 010-3187-9127
 
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
