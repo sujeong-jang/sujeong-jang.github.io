@@ -398,7 +398,7 @@ h6, .h6 {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 3rem;
   font-weight: 300;
 }
 
@@ -545,6 +545,10 @@ pre code {
   font-size: inherit;
   color: inherit;
   word-break: normal;
+}
+
+.image-size {
+  display: inline-block;
 }
 
 .pre-scrollable {
